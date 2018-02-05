@@ -137,6 +137,7 @@
      <Compile Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Editor\pb_ScenePostProcessor.cs" />
      <Compile Include="Assets\3rdPartyAssets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+     <None Include="Assets\Textures\Metal\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_TransparentOverlay.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_SelectionPicker.shader" />
@@ -147,36 +148,51 @@
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\LutGen.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+     <None Include="Assets\Audio\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_FaceHighlight.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
+     <None Include="Assets\Scripts\Menu\Options\Controls\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\ACES.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+     <None Include="Assets\Scripts\Menu\Level Select\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Uber.shader" />
+     <None Include="Assets\Physics\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
+     <None Include="Assets\Textures\Normal\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Blit.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
+     <None Include="Assets\Particles\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\DiffuseTextureBlend.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\Prefabs\DELETE ME.txt" />
+     <None Include="Assets\Scripts\Game\Pause\Options\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_StandardVertexColor.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_VertexPicker.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_HideVertices.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
+     <None Include="Assets\Scripts\Menu\Options\Video\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Common.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_UnlitVertexColor.shader" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_FacePicker.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\UI\Trackball.shader" />
+     <None Include="Assets\Animations\DELETE ME.txt" />
+     <None Include="Assets\Textures\Roughness\DELETE ME.txt" />
+     <None Include="Assets\UI\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Meshes\DELETE ME.txt" />
+     <None Include="Assets\Textures\Specular\DELETE ME.txt" />
+     <None Include="Assets\Textures\Diffuse\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Bloom.cginc" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\TAA.shader" />
@@ -185,11 +201,13 @@
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\GrainGen.shader" />
+     <None Include="Assets\Sprites\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\FXAA.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
+     <None Include="Assets\Textures\Alpha\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_NormalPreview.shader" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\Bloom.shader" />
      <None Include="Assets\3rdPartyAssets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
@@ -201,6 +219,7 @@
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
      <None Include="Assets\3rdPartyAssets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+     <None Include="Assets\Scripts\Menu\Options\Audio\DELETE ME.txt" />
      <None Include="Assets\3rdPartyAssets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
      <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_SmoothingPreview.shader" />
  <Reference Include="UnityEditor.Advertisements">
@@ -269,26 +288,23 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
- <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
  <Reference Include="ProBuilderCore-Unity5">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>C:/Users/s170726/Documents/Smash Your Friends!/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="KdTreeLib">
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+ </Reference>
+ <Reference Include="pb_Stl">
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ </Reference>
+ <Reference Include="Poly2Tri">
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderEditor-Unity5">
+ <HintPath>C:/Users/s170726/Documents/SmashYourFriends/trunk/Smash Your Friends!/Assets/3rdPartyAssets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -300,10 +316,6 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{28D7E0E9-BC4F-842A-C902-52B0BACDBECA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{FD572E2B-48EF-F39B-F935-80EC405662A6}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
-    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{B282DCC4-C492-0464-8D1E-91B98D1B988D}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
